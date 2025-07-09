@@ -1,0 +1,5 @@
+python 3.10.12
+numpy 1.24.4
+torch 2.4.0
+tqdm 4.66.4
+scikit-learn 1.4.2
