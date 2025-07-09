@@ -3,7 +3,7 @@ The **Multimodal Time-Aligned Shared Token Recommender (MTSTRec)** is a transfor
 
 ## Model Architecture 
 <div align="center">
-   <img src= "https://github.com/idssplab/MTSTRec/blob/main/MTSTRec.png" width="80%" height="80%">
+   <img src= "https://github.com/idssplab/MTSTRec/blob/main/MTSTRec.png">
 </div>
 
 
